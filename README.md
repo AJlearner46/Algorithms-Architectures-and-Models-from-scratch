@@ -1,10 +1,10 @@
-# Architecture Implementation
+## Architecture Implementation
 - CNN
 
-# Paper Implementation
+## Paper Implementation
 
 
-# Algorithms Implementation
+## Algorithms Implementation
   - Sudoku solver in cpp
   - Morrish Traversal graph 
 
