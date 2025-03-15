@@ -1,12 +1,20 @@
 ## Architecture Implementation
-- CNN
+- [x] CNN
+- [ ] LSTM
+- [ ] ResNet
+- [ ] Transformer
+- [ ] VIT
+- [ ] GPT-2
+- [ ] BERT
 
 ## Paper Implementation
+- [ ] Attention is all you need
+- [ ] LoRA
 
 
-## Algorithms Implementation
-  - Sudoku solver in cpp
-  - Morrish Traversal graph 
+## Algorithm Implementation
+  - [x] Sudoku solver in cpp
+  - [x] Morrish Traversal graph 
 
 
 
