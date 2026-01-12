@@ -5,12 +5,14 @@
 - [ ] Transformer
 - [x] VIT
 - [ ] GPT-2
-- [ ] BERT
+- [x] BERT
 
 ## Paper Implementation
 - [ ] Attention is all you need
-- [ ] LoRA
+- [x] LoRA
 - [x] An Image is Worth 16x16 Words
+- [x] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+
 
 ## Algorithm Implementation
   - [x] Sudoku solver in cpp
