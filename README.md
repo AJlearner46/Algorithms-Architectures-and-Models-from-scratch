@@ -12,6 +12,7 @@
 - [x] LoRA
 - [x] An Image is Worth 16x16 Words
 - [x] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+- [ ] Generative Adversarial Networks (GAN)
 
 
 ## Algorithm Implementation
